@@ -3,6 +3,8 @@ I’m an enterprise technology marketer & salesman, girl dad x2, husband, Bitcoi
 
 [![download recume](https://badgen.net/badge/download/resume/red)](https://github.com/joe-rodgers/docs/blob/master/Joe%20Rodgers%20-%20CV%20-%202020-08.pdf)
 
+[![](https://badgen.net/badge/LinkedIn/Joe%20Rodgers/blue)](https://www.linkedin.com/in/jrmarketing/)
+
 ## Let's connect!
 [![](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/_joerodgers) [![](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/joerodgers) [![](https://badgen.net/badge/icon/keybase?icon=keybase&label)](https://joerodgers.keybase.pub/) [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/joe-rodgers) [![](https://badgen.net/badge/%E2%9C%89/email/blue)](mailto:joerodgers@pm.me)
 
