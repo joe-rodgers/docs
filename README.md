@@ -11,8 +11,10 @@ I have a couple side projects worth mentioning that might be of interest.
 
 ### WORDS
 WORDS is a monthly Bitcoin journal. I curate the best articles and essays I come across about Bitcoin into a web and pdf journal. 
+
 [![](https://badgen.net/badge/WORDS/Bitcoin%20Journal/black)](https://bitcoinwords.github.io/)
 
 ### guns.team
 I am a 3D printing and 2A enthusiast. guns.team is a resource for those interested in learning about 3D2A. 
+
 [![](https://badgen.net/badge/guns.team/3D%20Gun%20Printing%20Resource/black)](https://joe-rodgers.github.io/guns.team/)
