@@ -23,7 +23,7 @@ I am a 3D printing and 2A enthusiast. guns.team is a resource for those interest
 
 ### PGP
 
-'''
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF7H4fEBEADedA/TH+YuOJ/oIqejcbTl5f4B93AQaYD7yMNZ/tkW1X7mPcmk
@@ -75,4 +75,4 @@ sHLv8/gOW+7+hss40GzQ0p5vbLjuEraXmTMwOTyLKzdsSwWlua9e06+U1595D7gD
 BMZuwFtdWv/7sVccaC2dnFJfbwwk8vuqTWzQKWWsWSPJU0IZjR4a8YBF
 =EAeq
 -----END PGP PUBLIC KEY BLOCK-----
-'''
+```
