@@ -1,7 +1,7 @@
 # [Joe Rodgers // docs](https://joe-rodgers.github.io/docs/)
 I’m an enterprise technology marketer & salesman, girl dad x2, husband, Bitcoiner, and barbeque enthusiast. I’ve sold hardware, software, hydraulics, sneakers, and beer. I was recently laid off from HPE after 9.5 year and I am actively looking for new opportunities. I am ready and willing to relocate if necessary. I am great at relationships, sales and marketing. 
 
-[![download recume](https://badgen.net/badge/download/resume/red)](https://github.com/joe-rodgers/docs/blob/master/Joe%20Rodgers%20-%20CV%20-%202020-08.pdf)
+[![download resume](https://badgen.net/badge/download/resume/red)](https://github.com/joe-rodgers/docs/blob/master/Joe%20Rodgers%20-%20CV%20-%202020-08.pdf)
 
 [![](https://badgen.net/badge/LinkedIn/Joe%20Rodgers/blue)](https://www.linkedin.com/in/jrmarketing/)
 
