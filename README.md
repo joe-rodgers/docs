@@ -1,6 +1,6 @@
 # [Joe Rodgers // docs](https://joe-rodgers.github.io/docs/)
 <img align="right" src="https://raw.githubusercontent.com/joe-rodgers/docs/master/orange-joe.jpg">
-I’m an enterprise technology marketer & salesman, girl dad x2, husband, Bitcoiner, and barbeque enthusiast. Over the course of my career, I've sold hardware, software, hydraulics, sneakers, and beer. I was recently laid off from HPE after 9.5 year and I am actively looking for new opportunities. If you are looking for a team member that is great at relationships, sales and marketing, then when should connect. I am ready and willing to relocate if necessary. 
+I’m an enterprise technology marketer & salesman, girl dad x2, husband, Bitcoiner, and barbeque enthusiast. Over the course of my career, I've sold hardware, software, hydraulics, sneakers, and beer. I was recently laid off from HPE after 9.5 years and I am actively looking for new opportunities. If you are looking for a team member that is great at relationships, sales, and marketing, then when should connect. I am ready and willing to relocate if necessary. 
 
 [![download resume](https://badgen.net/badge/download/resume/orange)](https://github.com/joe-rodgers/docs/blob/master/Joe%20Rodgers%20-%20CV%20-%202020-09.pdf)
 
